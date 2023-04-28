@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962224676903",
+    "project_id": "toca-boca-room-ideas-76f06",
+    "storage_bucket": "toca-boca-room-ideas-76f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962224676903:android:569c0bc8ddd9375effee02",
+        "android_client_info": {
+          "package_name": "com.naufalharitsstudio.room.ideas.tocaboca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962224676903-4u8081r7bgun7juc2dtklr21kff77ck3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL2dTR97_x7rUsyKWWJafZpK6epXXBYQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962224676903-4u8081r7bgun7juc2dtklr21kff77ck3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
